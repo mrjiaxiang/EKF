@@ -1,0 +1,5 @@
+Log file created at: 2023/05/02 12:06:23
+Running on machine: melody
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0502 12:06:23.871407 61154 node.cpp:22] start estimator
+I0502 12:06:23.882305 61154 node.cpp:25] init estimator

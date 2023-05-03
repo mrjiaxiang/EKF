@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/melody/example/EKF/imu_integration_ws/devel/setup.sh

@@ -1,0 +1,8 @@
+prefix=/home/melody/example/EKF/imu_integration_ws/install
+
+Name: csv_to_bag
+Description: Description of csv_to_bag
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,8 @@
+prefix=/home/melody/example/EKF/imu_integration_ws/devel
+
+Name: imu_integration
+Description: Description of imu_integration
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
