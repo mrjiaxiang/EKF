@@ -1,0 +1,207 @@
+Log file created at: 2023/05/07 16:28:10
+Running on machine: melody
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0507 16:28:10.565425 42680 eskf_kitti_node.cpp:20] FLAGS_log_dir : /home/melody/example/EKF/imu_integration_ws/src/eskf_kitti/Log
+I0507 16:28:10.575857 42680 eskf_kitti_node.cpp:34]  eskf start
+I0507 16:28:10.575876 42680 ros_wapper.cpp:11] imu topic : /kitti/oxts/imu
+I0507 16:28:10.575878 42680 ros_wapper.cpp:12] gps topic : /kitti/oxts/gps/fix
+I0507 16:28:18.120326 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:18.120352 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:18.181020 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:18.181083 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:18.281042 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:18.281086 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:18.380932 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:18.380962 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:18.480901 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:18.480931 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:18.580902 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:18.580942 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:18.681090 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:18.681136 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:18.780916 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:18.780937 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:18.880978 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:18.881018 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:18.981114 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:18.981154 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:19.081084 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:19.081118 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:19.181079 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:19.181130 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:19.281462 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:19.281524 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:19.380959 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:19.380985 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:19.481038 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:19.481082 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:19.581070 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:19.581127 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:19.680943 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:19.680982 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:19.781128 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:19.781165 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:19.890942 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:19.890976 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:19.991019 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:19.991065 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:20.091063 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:20.091109 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:20.200910 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:20.200949 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:20.301141 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:20.301190 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:20.411176 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:20.411204 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:20.510970 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:20.511019 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:20.610781 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:20.610807 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:20.720754 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:20.720782 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:20.820690 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:20.820715 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:20.920703 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:20.920770 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:21.031031 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:21.031085 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:21.130702 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:21.130728 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:21.240906 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:21.240963 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:21.340694 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:21.340729 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:21.440734 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:21.440774 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:21.550997 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:21.551048 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:21.651136 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:21.651187 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:21.750823 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:21.750872 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:21.860749 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:21.860790 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:21.960855 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:21.960908 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:22.060676 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:22.060712 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:22.170724 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:22.170747 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:22.270610 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:22.270640 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:22.380781 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:22.380860 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:22.480618 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:22.480659 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:22.580888 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:22.580943 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:22.690631 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:22.690670 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:22.790640 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:22.790671 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:22.890529 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:22.890558 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:23.000603 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:23.000631 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:23.100832 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:23.100885 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:23.200431 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:23.200459 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:23.310616 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:23.310669 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:23.410502 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:23.410532 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:23.520651 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:23.520689 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:23.620448 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:23.620483 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:23.720719 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:23.720767 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:23.830487 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:23.830523 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:23.930477 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:23.930524 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:24.030727 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:24.030763 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:24.140352 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:24.140379 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:24.240625 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:24.240653 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:24.350643 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:24.350692 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:24.450421 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:24.450469 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:24.550782 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:24.550825 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:24.660295 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:24.660322 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:24.760584 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:24.760622 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:24.860339 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:24.860383 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:24.970551 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:24.970602 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:25.070780 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:25.070814 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:25.170575 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:25.170605 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:25.280283 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:25.280330 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:25.380311 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:25.380347 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:25.490275 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:25.490326 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:25.590369 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:25.590409 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:25.690258 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:25.690290 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:25.800444 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:25.800479 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:25.900378 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:25.900418 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:26.000296 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:26.000334 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:26.110144 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:26.110174 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:26.210189 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:26.210218 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:26.320545 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:26.320603 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:26.420179 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:26.420213 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:26.520347 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:26.520390 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:26.630170 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:26.630216 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:26.730237 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:26.730280 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:26.830034 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:26.830066 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:26.940173 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:26.940201 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:27.040302 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:27.040388 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:27.140372 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:27.140399 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:27.250116 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:27.250154 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:27.350072 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:27.350111 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:27.460247 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:27.460289 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:27.560079 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:27.560102 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:27.659888 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:27.659915 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:27.770071 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:27.770114 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:27.870168 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:27.870211 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:27.980063 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:27.980090 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:28.079908 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:28.079937 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:28.179920 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:28.179947 42680 initializer.cpp:16] imu data is not enough.
+I0507 16:28:28.289964 42680 imu_gps_process.cpp:19] add imu data.
+I0507 16:28:28.290210 42680 imu_gps_process.cpp:37] [ProcessGpsPositionData]: System initialized!

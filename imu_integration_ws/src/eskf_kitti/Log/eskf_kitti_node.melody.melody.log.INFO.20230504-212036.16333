@@ -1,0 +1,5 @@
+Log file created at: 2023/05/04 21:20:36
+Running on machine: melody
+Log line format: [IWEF]mmdd hh:mm:ss.uuuuuu threadid file:line] msg
+I0504 21:20:36.490319 16333 eskf_kitti_node.cpp:15] FLAGS_log_dir : /home/melody/example/EKF/imu_integration_ws/src/eskf_kitti/Log
+I0504 21:20:45.467099 16333 eskf_kitti_node.cpp:22]  eskf start

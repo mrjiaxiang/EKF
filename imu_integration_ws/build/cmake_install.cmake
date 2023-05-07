@@ -132,6 +132,7 @@ if(NOT CMAKE_INSTALL_LOCAL_ONLY)
   # Include the install script for each subdirectory.
   include("/home/melody/example/EKF/imu_integration_ws/build/gtest/cmake_install.cmake")
   include("/home/melody/example/EKF/imu_integration_ws/build/csv_to_bag/cmake_install.cmake")
+  include("/home/melody/example/EKF/imu_integration_ws/build/eskf_kitti/cmake_install.cmake")
   include("/home/melody/example/EKF/imu_integration_ws/build/imu_integration/cmake_install.cmake")
 
 endif()

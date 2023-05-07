@@ -8,6 +8,7 @@
             "includePath": [
                 "/opt/ros/noetic/include/**",
                 "/home/melody/example/EKF/imu_integration_ws/src/imu_integration/include/**",
+                "/home/melody/example/EKF/imu_integration_ws/src/eskf_kitti/include/**",
                 "/usr/include/**"
             ],
             "name": "ROS",

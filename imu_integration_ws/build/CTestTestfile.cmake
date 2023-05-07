@@ -6,4 +6,5 @@
 # testing this directory and lists subdirectories to be tested as well.
 subdirs("gtest")
 subdirs("csv_to_bag")
+subdirs("eskf_kitti")
 subdirs("imu_integration")

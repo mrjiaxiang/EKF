@@ -1,0 +1,35 @@
+{
+  "dataset": "kitti",
+  "imu_topic": "/kitti/oxts/imu",
+  "gps_topic": "/kitti/oxts/gps/fix",
+  "kitti/vel_topic": "/kitti/oxts/gps/vel",
+  "init_state_std ": [
+    0.001,
+    0.001,
+    0.001,
+    0.001,
+    0.001,
+    0.001,
+    0.00005,
+    0.00005,
+    0.00005,
+    0.001,
+    0.001,
+    0.001,
+    0.001,
+    0.001,
+    0.001
+  ],
+  "noise_a": 0.001,
+  "noise_g": 0.00003,
+  "noise_ba": 0.001,
+  "noise_bg": 0.00001,
+  "v_x": 0.0001,
+  "v_y": 0.0001,
+  "v_z": 0.001
+}
+// for (unsigned int i = 0; i < root["hobby"].size(); i++)
+// 		{
+// 			std::string ach = root["hobby"][i].asString();
+// 			std::cout << ach << '\t';
+// 		}

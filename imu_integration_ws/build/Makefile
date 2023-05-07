@@ -896,6 +896,19 @@ roscpp_generate_messages_py/fast:
 .PHONY : roscpp_generate_messages_py/fast
 
 #=============================================================================
+# Target rules for targets named eskf_kitti_node
+
+# Build rule for target.
+eskf_kitti_node: cmake_check_build_system
+	$(MAKE) -f CMakeFiles/Makefile2 eskf_kitti_node
+.PHONY : eskf_kitti_node
+
+# fast build rule for target.
+eskf_kitti_node/fast:
+	$(MAKE) -f eskf_kitti/CMakeFiles/eskf_kitti_node.dir/build.make eskf_kitti/CMakeFiles/eskf_kitti_node.dir/build
+.PHONY : eskf_kitti_node/fast
+
+#=============================================================================
 # Target rules for targets named imu_integration_node
 
 # Build rule for target.
@@ -977,6 +990,7 @@ help:
 	@echo "... roscpp_generate_messages_eus"
 	@echo "... topic_tools_generate_messages_py"
 	@echo "... roscpp_generate_messages_py"
+	@echo "... eskf_kitti_node"
 	@echo "... imu_integration_node"
 .PHONY : help
 

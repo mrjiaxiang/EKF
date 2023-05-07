@@ -1,0 +1,8 @@
+prefix=/home/melody/example/EKF/imu_integration_ws/devel
+
+Name: eskf_kitti
+Description: Description of eskf_kitti
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

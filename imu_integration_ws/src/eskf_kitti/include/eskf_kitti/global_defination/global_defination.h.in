@@ -1,0 +1,7 @@
+#pragma once
+
+#include <string>
+
+namespace eskf_kitti {
+const std::string WORK_SPACE_PATH = "@WORK_SPACE_PATH@";
+}
